@@ -2,6 +2,10 @@
 
 TravelEx is a next-generation luxury travel booking platform designed to offer immersive and seamless travel planning experiences. Built with modern web technologies, it features a cinematic "Sunset Explorer" aesthetic, interactive particle effects, and deep personalization.
 
+![travelx](Screenshot.png)
+
+live Demo: https://mohakamran.github.io/travelx/ 
+
 ## 🌟 Key Features
 
 *   **Cinematic Hero Section**: Immersive visuals with a reliable high-quality background and smooth call-to-action flows.
