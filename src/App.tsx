@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import Layout from './components/layout/Layout';
 import { AnimatePresence } from 'framer-motion';
 import Home from './pages/Home';
@@ -42,10 +42,10 @@ function App() {
   return (
     <CommandProvider>
       <TripProvider>
-        <BrowserRouter>
+        <Router>
           <CommandPanel />
           <AnimatedRoutes />
-        </BrowserRouter>
+        </Router>
       </TripProvider>
     </CommandProvider>
   );
