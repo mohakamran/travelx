@@ -4,7 +4,7 @@ TravelEx is a next-generation luxury travel booking platform designed to offer i
 
 ![travelx](Screenshot.png)
 
-live Demo: https://mohakamran.github.io/travelx/ 
+live Demo: https://travelx-gold.vercel.app
 
 ## 🌟 Key Features
 
